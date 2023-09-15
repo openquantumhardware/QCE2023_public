@@ -1,5 +1,4 @@
-# QCE2023
-QCE2023 QICK workshop demo
+# QCE2023_public repository
+QCE2023 QICK tutorial
 
-Link to [workshop slides](https://docs.google.com/presentation/d/1mVn56jZiTkXCf9xOaSvNSVXKpg0F5ZcizvF7EY54Mqw/edit?usp=sharing) specifically about experiment
-* We can also continue adding slides to this deck to make a comprehensive presentation between the three of us (firmware, software, and experiment).
+Please install the latest version of the [QICK library](https://github.com/openquantumhardware/qick) and try out these demos we present at [IEEE Quantum Week 2023](https://qce.quantum.ieee.org/2023/tutorials-program/#tut03)
