@@ -1,0 +1,15 @@
+Notes on connections:
+
+DACs:
+228_0: 10 MHz - 1 GHz (muxed SG).
+229_0: 1 leg with DC block (resonator).
+230_0: 1 GHz - 4 GHz (readout demos).
+230_2: 1 GHz - 4 GHz (readout demos).
+231_0: 10 MHz - 1 GHz (pulse demos).
+231_2: 10 MHz - 1 GHz (pulse demos).
+
+ADCs:
+226_0: 10 MHz - 1 GHz (muxed readout).
+226_2: 1 leg with DC block (resonator).
+227_0: 1 GHz - 4 GHz (readout demos).
+227_2: 1 GHz - 4 GHz (readout demos).
