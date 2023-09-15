@@ -6,9 +6,9 @@ For the Pulse Sequence demo there is an additional loopback of DAC 230_0 and ADC
 
 For the Qubit Emulator demo we used:
 
-230_0 – 10 MHz-1 GHz baluns – 226_0
-230_2 – 1 GHz-4 GHz baluns – 226_2*
-229_0* – 1 GHz-4 GHz baluns – 227_2
+* 230_0 – 10 MHz-1 GHz baluns – 226_0
+* 230_2 – 1 GHz-4 GHz baluns – 226_2
+* 229_0 – 1 GHz-4 GHz baluns – 227_2
 
-* = connected via the emulator
+226_2 and 229_0 are connected via the emulator.
 
